@@ -2,9 +2,9 @@
 # Description
   TripleDStore is an ecommerce store that sells fashionable clothes and accessories.
 # Stack
-  # Front-End
+  ## Front-End
     HTML, CSS, Javascript.
-  # Back-End
+  ## Back-End
     Python and Django.
 # Installation
   1. Create a python virtual environment. I recommend using `virtualenv` to create the virtual environment.
